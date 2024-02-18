@@ -1,0 +1,9 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // ファイル保存時にフォーマットを自動で実行
+  "editor.formatOnSave": true,
+  // 必要に応じて、フォーマット時にセミコロンを追加するかどうか、シングルクォートを使用するかどうかなど、
+  // さらに細かい Prettier の設定を追加できます
+  "prettier.semi": true,
+  "prettier.singleQuote": true
+}
